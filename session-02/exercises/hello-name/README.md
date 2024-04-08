@@ -13,13 +13,6 @@ __Exemplos__
 ```
 
 
-<!-- Solução exercício  -->
-
-<!-- function helloName(name){
-      if(name){ 
-     return "Hello " + name + "!"; 
- } -->
-
 
 ## Objetivos de aprendizagem (OAs)
 
