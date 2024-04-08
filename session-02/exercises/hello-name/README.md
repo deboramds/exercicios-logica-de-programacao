@@ -12,6 +12,15 @@ __Exemplos__
     helloName('X') → "Hello X!"
 ```
 
+
+<!-- Solução exercício  -->
+
+<!-- function helloName(name){
+      if(name){ 
+     return "Hello " + name + "!"; 
+ } -->
+
+
 ## Objetivos de aprendizagem (OAs)
 
 - Manipulação de strings
