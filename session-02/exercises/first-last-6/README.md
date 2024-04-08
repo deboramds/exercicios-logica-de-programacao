@@ -13,6 +13,13 @@ __Exemplos:__
     firstLast6([13, 6, 1, 2, 3]) → false
 ```
 
+
+
+
+function firstLast6(nums) {
+    return nums[0] === 6 || nums[nums.length - 1] === 6;
+}
+
 ## Objetivos de aprendizagem (OAs)
 
 - Manipulação de arrays
