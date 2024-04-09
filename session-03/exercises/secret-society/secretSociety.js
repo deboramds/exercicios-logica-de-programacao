@@ -6,5 +6,5 @@
 
 
 function societyName(friends) {
-    return friends.map((friend) => friend[0]).sort().join('')
+    return friends.map((friend) => friend[0]).sort().join('') 
     }
