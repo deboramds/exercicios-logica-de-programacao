@@ -3,7 +3,7 @@
 // no final, preservando a ordem dos demais elementos não nulos.
 
 
-// solução do exercício 3 da sessão 5 (move-zeros)
+//                                  
 
 function moveZeros(arr) {
     let arrZero = 0;
